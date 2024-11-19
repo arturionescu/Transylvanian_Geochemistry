@@ -33,12 +33,14 @@
 
 .box-item {
   flex: 1 0 $itemMinWidth;
+  background: $secondaryDark;
   margin: 0 0 rem(30px);
   display: inline-block;
   min-height: rem(285px);
   transition: all 0.3s;
   position: relative;
   z-index: 1;
+  overflow: hidden;
 
   @include media(">=sm") {
     margin: 0 rem($itemMargin) rem(30px);
@@ -58,13 +60,16 @@
     flex: 1 0 calc(100%/#{$maxItemsPerRow} - #{$itemMargin * 2});
   }
 
+  .cover{
+  overflow: hidden;
+  }
+
   &:hover {
     z-index: 2;
-    transform: scale(1.1);
+    transform: translate(0px, -15px);
+    transition: all .8s ease-in-out;
 
     img {
-      -webkit-filter: grayscale(100%);
-      filter: grayscale(100%);
       transform: scale(1.05);
     }
 
@@ -76,7 +81,7 @@
 
       .cover {
         .new-post-tag {
-          background-color: #000;
+          background-color: $accentBlue;
         }
 
         .read-icon {
@@ -148,8 +153,8 @@
 
       &:hover {
         color: $primaryDark;
-        background: $accentDark;
-        border-color: $accentDark;
+        background: $accentBlue;
+        border-color: $accentBlue;
       }
     }
 
@@ -174,7 +179,7 @@
       .new-post-tag {
         text-transform: uppercase;
         display: inline-block;
-        background: $themeColor;
+        background: $accentBlue;
         color: #fff;
         font-size: rem(13px);
         font-weight: 700;
@@ -202,7 +207,7 @@
         margin-top: rem(-40px);
         margin-left: rem(-40px);
         border: 2px solid #fff;
-        color: $themeColor;
+        color: $accentBlue;
         z-index: 4;
 
         svg {
