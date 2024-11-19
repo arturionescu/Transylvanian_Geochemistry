@@ -1,7 +1,7 @@
 .comments {
   @include center(rem(800px));
   padding: 0 rem(20px);
-  
+
   h3 {
     margin: 0 0 rem(30px);
     font-size: rem(30px);
@@ -9,23 +9,23 @@
 }
 
 footer {
-  @include center(rem(800px));
+  @include center(100%);
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
   padding: rem(20px) rem(25px);
   margin-top: rem(50px);
-  margin-bottom: rem(120px);
+  margin-bottom: rem(100px);
   @include mainFont(300);
 
   @include media(">=sm") {
-    margin-top: rem(100px);
+    margin-top: rem(80px);
   }
 
   p {
     text-decoration: none;
     color: $primaryDark;
     font-size: rem(16px);
-    line-height: rem(25px);
+    line-height: rem(20px);
   }
 
   span {
@@ -44,7 +44,7 @@ footer {
 
     &.love {
       @include size(20, 20);
-      fill: $themeColor;
+      fill: $accentBlue;
       margin-top: rem(-2px);
       margin-left: rem(3px);
       margin-right: rem(3px);
@@ -53,15 +53,15 @@ footer {
 
   a {
     display: inline-block;
-    fill: #808080;
+    fill: $primaryDark;
     transition: all 0.3s ease;
     text-decoration: none;
-    color: #808080;
-    
+    color: $primaryDark;
+
     &:hover {
-      fill: $themeColor;
+      fill: $accentBlue;
     }
-    
+
     &.creator:hover {
       text-decoration: underline;
     }
@@ -78,21 +78,27 @@ footer {
     a {
       text-decoration: none;
       font-size: rem(15px);
-      
+
       &:hover {
         text-decoration: underline;
+        color: $accentBlue;
       }
     }
   }
 }
 
+.sponsor {
+  float: right;
+  padding: 15px;
+}
+
 .main-page {
   footer {
-    background: $primaryDark;
-    border-top: 1px solid lighten($primaryDark, 10%);
-    
+    background: $lightGray;
+    border-top: 5px solid lighten($skyDark, 30%);
+
     p {
-      color: $accentDark;
+      color: $primaryDark;
     }
   }
 }
