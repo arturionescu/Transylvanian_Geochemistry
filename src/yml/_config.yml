@@ -24,7 +24,7 @@ use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: true
+  enabled: false
   debug: false
   collections:
     - posts
@@ -51,11 +51,6 @@ plugins:
 
 # Exclude my node related stuff
 exclude: [
-  'docs/',
-  'vendor/',
-  'LICENSE',
-  'CHANGELOG.md',
-  'jekflix.gemspec',
   'package.json',
   'package-lock.json',
   'src',
@@ -68,4 +63,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version:
