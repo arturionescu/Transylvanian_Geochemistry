@@ -95,8 +95,8 @@ Below are some properties you can change in your project `_config.yml`, check th
 
 ```
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Transylvanian Geochemistry Research Group
+title: Transylvanian Geochem RG
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
