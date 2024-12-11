@@ -7,14 +7,17 @@ permalink: /staff/
 
 <h1>Team members</h1>
 
-<div class="Team members">
+<div class="The researsch group members">
   {% for author in site.authors %}
+    <img class="img-rounded" src="/assets/img/teampic">
     <div class="item">
       <h2 class="name">
         <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
       </h2>
       {% if author.position %}
         <h3 class="position">{{ author.position }}</h3>
+        {% if author.bio %}
+        <h4 class="bio">{{author.bio}}</h4>
       {% endif %}
     </div>
   {% endfor %}
