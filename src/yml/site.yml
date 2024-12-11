@@ -9,14 +9,19 @@ tags:
   - netlify
 show_hero: true
 menu:
+  menu:
   - title: Home
     url: /
   - title: Project
     url: /project
   - title: Team
     url: /team
-  - title: About
-    url: /about
+  - title: Expeditions
+    url: /expeditions
+  - title: Media
+    url: /media
+  - title: Scientists
+    url: /scientists
   - title: Contact
     url: /contact
 email: youremail@test.com
