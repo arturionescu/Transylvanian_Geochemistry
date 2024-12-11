@@ -17,3 +17,5 @@ Babes-Bolyai University
 Faculty of Environmental Science and Engineering
 Cluj-Napoca Romania
 artur.ionescu@ubbcluj.ro
+
+<img src="/assets/img/logo.png" width="400">
