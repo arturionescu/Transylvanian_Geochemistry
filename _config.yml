@@ -10,7 +10,6 @@ tags:
   - netlify
 show_hero: true
 menu:
-  menu:
   - title: Home
     url: /
   - title: Project
