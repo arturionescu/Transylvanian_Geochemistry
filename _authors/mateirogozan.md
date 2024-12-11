@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /src/img/user.jpg
-name: catalincirje
-display_name: Catalin-George Cirje
+photo: /assest/img/teampic/user male.png 
+name: mateirogozan
+display_name: Matei Rogozan
 position: BSc student
 bio:
 ---

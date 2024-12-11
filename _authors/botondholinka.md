@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /src/img/user.jpg
+photo: /assest/img/teampic/user male.png 
 name: botondholinka
 display_name: Botond Holinka
 position: BSc student

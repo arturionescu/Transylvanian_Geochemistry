@@ -1,6 +1,6 @@
 ---
 llayout: author
-photo: /src/img/user.jpg
+photo: /assest/img/teampic/user female.png 
 name: alexandracatu
 display_name: Alexandra-Maria Catu
 position: BSc student
