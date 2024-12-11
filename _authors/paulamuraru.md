@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assest/img/teampic/user_female.png 
+photo: /assets/img/teampic/user_female.png 
 name: paulamuraru
 display_name: Paula Muraru
 position: BSc student

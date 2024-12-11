@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assest/img/teampic/user_female.png 
+photo: /assets/img/teampic/user_female.png 
 name: miriamdragomir
 display_name: Miriam Dragomir
 position: BSc student
