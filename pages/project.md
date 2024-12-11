@@ -26,7 +26,3 @@ The balance that has been established between life and the planet is given by cy
 _A metalloenzyme responsible for hydrogen utilization in thermophilic organisms containing a NiFe metal center and a number of FeS clusters._
 
 To better understand the co-evolution of the biosphere and the geosphere, we will travel to where metals reach the surface from the depths of the Earth, like hydrothermal vents and hot springs. After collecting samples, we will combine laboratory experiments and computer analysis. With the gathered information we will build models that will help us understand and predict how few epochal events can lead to massive planetary changes, such as, for example, the ones caused by the rising levels of oxygen.
-
-<img src="/assets/img/erc_flag.png" alt="ERC logo - EU flag" width="400">
-
-<small>This project was supported by funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program Grant Agreement No. 948972—COEVOLVE—ERC-2020-STG.</small>
