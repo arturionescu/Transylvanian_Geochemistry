@@ -1,9 +1,8 @@
 ---
 layout: author
-photo: /assets/img/teampic/ab.jpg
+photo: /src/img/user.jpg
 name: arturionescu
 display_name: Artur Ionescu
-position: PhD
-bio: Fluid geochemist focusing on volcanic and tectonic regions
-twitter_username: 
+position: PhD Research Group leader
+bio: Fluid geochemist focusing on volcanic and tectonic regions.
 ---
