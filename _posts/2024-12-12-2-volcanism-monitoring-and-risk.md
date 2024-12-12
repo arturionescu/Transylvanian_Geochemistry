@@ -4,7 +4,7 @@ layout: post
 title: Volcanism – monitoring and risks
 subtitle: Baia Mare - European Researchers Night 
 description: 
-image: /assets/img/uploads/baia_mare_1.jpg
+image: /assets/img/uploads/baia_mare _1.jpg
 optimized_image:
 category: image
 tags:
@@ -29,7 +29,7 @@ In the first part of the event, participants had the opportunity to attend two c
 
 The second presentation, entitled “Monitoring volcano activity using gas geochemistry – from theory to applications”, was given by Dr. Artur Ionescu – scientific researcher at the “Babeș-Bolyai” University of Cluj-Napoca. He detailed the advanced techniques used to study volcanic gas emissions, explaining how the analysis of these gases can provide valuable clues about volcanic activity. Dr. Ionescu highlighted the transition from theoretical concepts to practical implementations, demonstrating the relevance of this field of study in preventing natural disasters and protecting human lives.
 
-![Alt text](/assets/img/uploads/baia_mare_2.jpg)
+![Alt text](/assets/img/uploads/baia_mare _2.jpg)
 
 The second part of the event, organized as an interactive workshop, included several elements, namely: an interactive mini-exhibition with consolidated products of volcanic activity and a presentation of the method and techniques for monitoring the activity of an active volcano using a professional model.
 
