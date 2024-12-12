@@ -1,5 +1,5 @@
 ---
-date: 2022-12-12
+date: 2024-12-12
 layout: post
 title: Volcanism – monitoring and risks
 subtitle: Baia Mare - European Researchers Night 
