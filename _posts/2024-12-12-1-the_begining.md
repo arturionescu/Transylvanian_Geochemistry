@@ -6,9 +6,9 @@ subtitle: Transylvanian Geochemistry Research Group is formed
 description:
 image: /assets/img/teampic/group.jpg
 optimized_image:
-category: image
+category: news
 tags:
-  - image
+  - team
   - research group
   - Transylvania
 author: arturionescu
