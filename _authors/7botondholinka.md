@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /assets/img/teampic/user_male.png 
+photo: /assets/img/teampic/boti.jpg 
 name: botondholinka
 display_name: Botond Holinka
 position: MSc in both Plant- and Medical Biology, BSc in Biology and  BSc student in Environmental Science
-bio:
+bio: The groups botanist. Interested in how plants, living organism adapt and life in CO2 rich areas and what trace elements they can bioaccumulate.
 ---
