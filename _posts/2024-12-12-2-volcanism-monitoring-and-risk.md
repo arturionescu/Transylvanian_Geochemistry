@@ -10,7 +10,7 @@ category: image
 tags:
   - volcano
   - Baia Mare
-  - research 
+  - monitoring
 author: arturionescu
 paginate: false
 ---
