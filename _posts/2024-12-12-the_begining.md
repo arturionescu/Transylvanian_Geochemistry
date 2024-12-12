@@ -3,7 +3,7 @@ date: 2022-02-02T20:00:05.000Z
 layout: news
 title: The begining
 subtitle: Transylvanian Geochemistry Research Group is formed
-description: Not only bacteria and the more elusive archaea, but also microscopic fungi and algae are key characters in the coevolution of Life and Earth
+description:
 image: /assets/img/teampic/group.jpg
 optimized_image:
 category: image
