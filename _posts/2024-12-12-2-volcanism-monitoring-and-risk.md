@@ -4,7 +4,7 @@ layout: post
 title: Volcanism – monitoring and risks
 subtitle: Baia Mare - European Researchers Night 
 description: 
-image: /assets/img/uploads/baia_mare_1.jpg
+image: /assets/img/uploads/baia_mare.jpg
 optimized_image:
 category: image
 tags:
