@@ -1,7 +1,7 @@
 ---
 date: 2024-12-12
 layout: post
-title: The begining
+title: The beginning
 subtitle: Transylvanian Geochemistry Research Group is formed
 description:
 image: /assets/img/teampic/group.jpg
