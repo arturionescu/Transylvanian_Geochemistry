@@ -1,6 +1,6 @@
 ---
 date: 2024-12-12
-layout: explainer
+layout: post
 title: The beginning
 subtitle: Transylvanian Geochemistry Research Group is formed
 description:
