@@ -7,4 +7,4 @@ permalink: /scientists/
 description: A little more about the science produced in the framework of the group activities
 ---
 
-# The Transylvanian Geochemsitry Research Groups: scientific and technical products
+# The Transylvanian Geochemsitry Research Group's scientific and technical products
