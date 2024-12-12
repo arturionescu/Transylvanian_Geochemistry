@@ -39,4 +39,6 @@ One of the central moments of the workshop was the interaction with the consolid
 
 The workshop also included a detailed presentation of volcanic activity monitoring techniques, illustrated using a professional model. Experts explained how modern instruments are used to track volcano activity, providing vital information that can help prevent disasters. Participants learned about the sophisticated instruments used to analyze gas emissions, temperature changes and other key indicators that can predict an eruption. This presentation highlighted the importance of science in preventing natural disasters and highlighted the hard work of specialists in the field, providing a rare opportunity to
 
-![Alt text](/assets/img/uploads/baia_mare_4.jpg "How volcanic gases are collected and what materials we use for that")
+![Alt text](/assets/img/uploads/baia_mare_4.jpg "How volcanic gases are collected...")
+
+![Alt text](/assets/img/uploads/baia_mare_5.jpg "...and what materials do we use.")
