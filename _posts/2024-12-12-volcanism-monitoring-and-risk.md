@@ -4,11 +4,11 @@ layout: post
 title: Volcanism – monitoring and risks
 subtitle: Baia Mare - European Researchers Night 
 description: 
-image: /assets/img/uploads/2022-02-02.jpg
+image: /assets/img/uploads/baia_mare_1.jpg
 optimized_image:
 category: image
 tags:
-  - volcans
+  - volcano
   - Baia Mare
   - research 
 author: arturionescu
@@ -29,14 +29,14 @@ In the first part of the event, participants had the opportunity to attend two c
 
 The second presentation, entitled “Monitoring volcano activity using gas geochemistry – from theory to applications”, was given by Dr. Artur Ionescu – scientific researcher at the “Babeș-Bolyai” University of Cluj-Napoca. He detailed the advanced techniques used to study volcanic gas emissions, explaining how the analysis of these gases can provide valuable clues about volcanic activity. Dr. Ionescu highlighted the transition from theoretical concepts to practical implementations, demonstrating the relevance of this field of study in preventing natural disasters and protecting human lives.
 
-![Alt text](/assets/img/teampic/group.jpg "First group picture of the newlly formed research group")
+![Alt text](/assets/img/uploads/baia_mare_2.jpg)
 
 The second part of the event, organized as an interactive workshop, included several elements, namely: an interactive mini-exhibition with consolidated products of volcanic activity and a presentation of the method and techniques for monitoring the activity of an active volcano using a professional model.
 
 One of the central moments of the workshop was the interaction with the consolidated products of volcanic activity, which allowed participants to observe, touch and understand the materials resulting from the eruptions. These samples, collected from different corners of the world, offered a unique perspective on the diversity and complexity of volcanic phenomena, thus making scientific information more accessible and memorable. Students were also able to make microscopic observations on some preparations using binocular magnifying glasses.
 
-![Alt text](/assets/img/teampic/group.jpg "First group picture of the newlly formed research group")
+![Alt text](/assets/img/uploads/baia_mare_3.jpg)
 
 The workshop also included a detailed presentation of volcanic activity monitoring techniques, illustrated using a professional model. Experts explained how modern instruments are used to track volcano activity, providing vital information that can help prevent disasters. Participants learned about the sophisticated instruments used to analyze gas emissions, temperature changes and other key indicators that can predict an eruption. This presentation highlighted the importance of science in preventing natural disasters and highlighted the hard work of specialists in the field, providing a rare opportunity to
 
-![Alt text](/assets/img/teampic/group.jpg "First group picture of the newlly formed research group")
+![Alt text](/assets/img/uploads/baia_mare_4.jpg)
