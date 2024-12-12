@@ -1,5 +1,5 @@
 ---
-date: 2022-02-02T20:00:05.000Z
+date: 2024-12-12
 layout: news
 title: The begining
 subtitle: Transylvanian Geochemistry Research Group is formed
