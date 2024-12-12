@@ -4,5 +4,5 @@ photo: /assets/img/teampic/ionut.jpg
 name: ioanchis
 display_name: Ioan Chis
 position: BSc student in Environmental Management and Audit
-bio: 
+bio: The tech-guy, keen to learn how to study air quality in areas affected by the addition of natural contaminants, to learn how to build low-cost multi-gas instruments and how they could be linked to drones.
 ---
