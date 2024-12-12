@@ -6,11 +6,11 @@ subtitle: Cluj-Napoca - European Researchers Night
 description: 
 image: /assets/img/uploads/cluj1.jpg
 optimized_image:
-category: image
+category: explainer
 tags:
   - volcano
   - Cluj-Napoca
-  - msampling
+  - sampling
 author: arturionescu
 paginate: false
 ---

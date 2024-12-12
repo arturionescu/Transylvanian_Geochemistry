@@ -6,7 +6,7 @@ subtitle: Baia Mare - European Researchers Night
 description: 
 image: /assets/img/uploads/baia_mare.jpg
 optimized_image:
-category: image
+category: explainer
 tags:
   - volcano
   - Baia Mare
