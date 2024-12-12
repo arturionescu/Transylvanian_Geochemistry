@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/teampic/user_male.png 
+photo: /assets/img/teampic/artur.jpg 
 name: arturionescu
 display_name: Artur Ionescu
 position: PhD Research Group leader
