@@ -2,12 +2,11 @@ name: Transylvanian Geochemsitry Research Group
 title: Transylvanian Geochem RG
 description: The website of the Transylvanian Geochemsitry Research Group, working on the origin and interaction of fluids in different geotectonic settings. 
 tags:
-tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - science
+  - fluid geochemistry
+  - research group
+  - Transylvania
+  - carbon cycle
 show_hero: true
 menu:
   menu:
