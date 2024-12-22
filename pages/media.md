@@ -18,7 +18,7 @@ Here some highligts of our media appearances and some of our outreach events of 
 
 - Report in Geo Magazine "[Vorstoß ins Innere eines Vulkans](https://www.geo.de/wissen/mount-st--helens--mein-trip-in-den-feuerberg-31439832.html)" (Advance into the interior of a volcano in German) - appered in January 2022
 
-- "[Volcaninc Glacier](https://www.youtube.com/watch?v=F-XPr6kpWP4&t=17s)" Short movie of the Mount Saint Helens expedition 
+- "[Volcanic Glacier](https://www.youtube.com/watch?v=F-XPr6kpWP4&t=17s)" Short movie of the Mount Saint Helens expedition 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F-XPr6kpWP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
