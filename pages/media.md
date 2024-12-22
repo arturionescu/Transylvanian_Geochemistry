@@ -28,6 +28,6 @@ Here some highligts of our media appearances and some of our outreach events of 
 
 - Television apperence of the 11th IAVCEI Volcanic Lakes workshop on RTP, "[Lagos Vulcanicos. Investigadores internacionais em Sao Miguel](https://www.rtp.pt/noticias/pais/lagos-vulcanicos-investigadores-internacionais-em-sao-miguel_v1511543)" in Portugal.
 
--Review movie on the "[11th IAVCEI_CVL](https://cvl11workshop.wixsite.com/2023)" workshop on volcanic lakes
+- Review movie on the "[11th IAVCEI_CVL](https://cvl11workshop.wixsite.com/2023)" workshop on volcanic lakes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aaBeS4lbTk0" title="11th  Workshop on Volcanic Lakes | Azores 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
