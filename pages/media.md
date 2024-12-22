@@ -26,6 +26,4 @@ Here some highligts of our media appearances and some of our outreach events of 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uw-9ytq0x0E" title="Drone flight in the Mt. St. Helens Glacier Caves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Television apperence of the 11th IAVCEI Volcanic Lakes workshop on "[RTP](https://www.rtp.pt/noticias/pais/lagos-vulcanicos-investigadores-internacionais-em-sao-miguel_v1511543)": "Lagos Vulcanicos. Investigadores internacionais em Sao Miguel" in Portugal.
-
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1dDwDeP4g2q_qBjHcJtQ10BcguLPUd01U/view?usp=sharing" title="Lagos Vulcanicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Television apperence of the 11th IAVCEI Volcanic Lakes workshop on RTP, "[Lagos Vulcanicos. Investigadores internacionais em Sao Miguel](https://www.rtp.pt/noticias/pais/lagos-vulcanicos-investigadores-internacionais-em-sao-miguel_v1511543)" in Portugal.
