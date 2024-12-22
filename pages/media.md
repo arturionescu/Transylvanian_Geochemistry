@@ -8,6 +8,6 @@ description:
 ---
 # The Transylvanian Geochemistry Research Group in the media
 
-Follow our hashtag [#transylvaniangeochem](https://www.instagram.com/explore/tags/extremegeobiology/) on Instagram and check out the social profiles of our team members to stay updated on our work and activities!
+Follow our hashtag [#transylvaniangeochem](https://www.instagram.com/transylvanian_geochem_rg/) on Instagram to stay updated on our work and activities!
 
-Here some of the video of some of the interview and outreach events for the project:
+Here some of the our media appearances and some of our outreach events of the group and team members.
