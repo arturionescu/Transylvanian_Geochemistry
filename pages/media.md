@@ -16,6 +16,10 @@ Here some highligts of our media appearances and some of our outreach events of 
 
 - Interview about the 1st Etna International Training School of Geochemistry at "Nyitott Szemmel" entitled "[Etnalogia](https://drive.google.com/file/d/1-e0phcXL16HMzeXATKnb6RdAKbobAm-E/view?usp=sharing)" conversation evening with Laczko Vass Robert - 2016.10.27
 
+- Appered in the Slovenian Geologic Surveys ("[Geoloski zavod Slovenije](https://www.geo-zs.si/index.php/47-slovenian/novice/533-vzor%C4%8Denje-naravnih-izvirov-plina-co2-in-mineralne-vode-4-6-2019)") websites news section (in Slovenian), 04.06.2019 
+
+- A notice on our sampling in the Triglav National Park which is published in the official journal of the Park, "[Acta Triglavensia](https://drive.google.com/file/d/1DR7xE6DUKX9HkR7YWx0KwSO7_TKG0BLJ/view?usp=sharing)" (in Slovenian), December 2019.
+
 - Report in Geo Magazine "[Vorstoß ins Innere eines Vulkans](https://www.geo.de/wissen/mount-st--helens--mein-trip-in-den-feuerberg-31439832.html)" (Advance into the interior of a volcano in German) - appered in January 2022
 
 - "[Volcanic Glacier](https://www.youtube.com/watch?v=F-XPr6kpWP4&t=17s)" Short movie of the Mount Saint Helens expedition, and some extra scenes thanks to Jason Nelson (Visual Adventures) 
@@ -31,3 +35,5 @@ Here some highligts of our media appearances and some of our outreach events of 
 - Review movie on the "[11th IAVCEI_CVL](https://cvl11workshop.wixsite.com/2023)" workshop on volcanic lakes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aaBeS4lbTk0" title="11th  Workshop on Volcanic Lakes | Azores 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Newspaper article about the first IAVCEI CCVG-CVL joint workshop, in Kronika, with the title "[A kutatasok es termeszetvedelmi intezkedesek segitenek a Szent Anna-tavat jo allapotban atadni a kovetkezo generacioknak](https://kronikaonline.ro/szines/a-kutatasok-es-termeszetvedelmi-intezkedesek-segitenek-a-szent-anna-tavat-jo-allapotban-atadni-a-kovetkezo-generacioknak?fbclid=IwY2xjawHWmvJleHRuA2FlbQIxMAABHU4xWSufiJyAFvqnkyL8QmU8_AMfQx6hQpDhmU5mneC9sbeVrlnP_xVUng_aem_gCyGst92JTtYYXBPiGtnjA#&gid=1&pid=2)" in Hungarian
