@@ -27,8 +27,8 @@ A small group journeyed to the thermal karst system of Baile Herculane (Romania)
 
 <iframe src="https://drive.google.com/file/d/1UVe6q9immvJ9FcC5ESXKLN2F69f92VIV/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Thermal Karst of Herculane - March 2019 (RO)
-
+## Improving the estimation of tectonic carbon flux - Slovenia - May 2019 (SI)
+<img src="/assets/img/logos/Slovenia.png" alt="Slovenia logo" width="75%">
 The project entitled "Improving the estimation of tectonic carbon flux" funded by the Deep Carbon Observatory had its first field work in the Balkans, more exactly in Slovenia. With the help of the Geological Survey of Slovenia (Geoloski zavod Slovenije) the joint team visited a total of 50 sites all over the country, spanning from thermal drilling's, to mineral water wells to karst springs. Samples were collected for a multitude of parameters in order to investigate almost the full fluid geochemistry of the area. 
 
 My biggest gratitude is for the Geological Survey of Slovenia for helping in the site selections, logistics and field support  during these days. The team included: University of Perugia (Artur Ionescu and Carlo Cardellini), Babes-Bolyai University (Cristian Pop) and teh Geological survey of Slovenia (Nina Rman, Miroslav Medic, Katja Koren, Luka Seriaz, Zmago Bole, Tomislav Matoz and Sonja Cerar).
@@ -38,3 +38,4 @@ My biggest gratitude is for the Geological Survey of Slovenia for helping in the
 <iframe src="https://drive.google.com/file/d/18IFBnaBPs8wTiYQV9WxzRKAj3ryCpBZ8/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1PRjYsZbHtFNPfNDbJr41YKZwAkSyYs8K/preview" width="640" height="480" allow="autoplay"></iframe>
+
