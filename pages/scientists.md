@@ -73,3 +73,14 @@ description: A little more about the science produced in the framework of the gr
 ## Preprint
 
 1. Florea L., Stenner C., Burgess S., Sobolewski L., Pflitsch A., Paton M., Nadeau J., Ionescu A. (2022). Glaciovolcanic caves beyond Earth and the use of Earth’s glaciovolcanic caves as extra-planetary analogs.
+
+## Theses
+
+4. BSc thesis “Hydrogeological characteristics of the mineral waters in the Eastern Carpathians” by Anita Szocs (in Romanian), Babes-Bolyai University, Faculty of Environmental Science and Engineering, 2019.
+
+3. MSc thesis "Geochemical evaluation of the mineral waters in Covasna city, Romania” by Anamaria Sarlea (in Romanian), Babes-Bolyai University, Faculty of Environmental Science and Engineering, 2017. 
+
+2. BSc thesis “Geochemical evaluation of the mineral waters in the Middle Ciuc Basin, and quantification of the CO2 and CH4 emissions” by Attila Ferencz (in Hungarian), Babes-Bolyai University, Faculty of Biology and Geology, Department of Geology, 2017.
+
+1. BSc thesis “Gas seepage investigations around Korund locality (CO2 and CH4)” by Levente Ravasz (in Hungarian), Babes-Bolyai University, Faculty of Geography, 2017.
+
