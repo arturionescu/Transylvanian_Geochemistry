@@ -27,7 +27,7 @@ A small group journeyed to the thermal karst system of Baile Herculane (Romania)
 
 <iframe src="https://drive.google.com/file/d/1UVe6q9immvJ9FcC5ESXKLN2F69f92VIV/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Improving the estimation of tectonic carbon flux - Slovenia - May 2019 (SI)
+## Improving the estimation of tectonic carbon flux - Slovenia - May 2019 (SLO)
 <img src="/assets/img/logos/Slovenia.png" alt="Slovenia logo" width="75%">
 The project entitled "Improving the estimation of tectonic carbon flux" funded by the Deep Carbon Observatory had its first field work in the Balkans, more exactly in Slovenia. With the help of the Geological Survey of Slovenia (Geoloski zavod Slovenije) the joint team visited a total of 50 sites all over the country, spanning from thermal drilling's, to mineral water wells to karst springs. Samples were collected for a multitude of parameters in order to investigate almost the full fluid geochemistry of the area. 
 
@@ -39,3 +39,10 @@ Our biggest gratitude is for the Geological Survey of Slovenia for helping in th
 
 <iframe src="https://drive.google.com/file/d/1PRjYsZbHtFNPfNDbJr41YKZwAkSyYs8K/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## EDEN (Serbian Vardar Suture Zone) - the uncharted terrain - Serbia - June and November 2019 (SRB)
+<img src="/assets/img/logos/Serbia.png" alt="Serbia logo" width="75%">
+Central Serbia host more than 300 mineral water springs and wells. Some are cold while others are thermal reaching up to 80 degrees Celsius. From these sites until the present no real fluid geochemical studies were performed. This is the first time that from the Central Serbia, namely from the Vardar zone waters and gases where collected in order to investigated the composition and origin of the fluids. In the first part of the field work 68 occurrences were investigated from which water samples were collected. From these sites 34 were selected for sampling gases.  
+   
+In 2019 a joint team composed of researchers from University of Perugia (Artur Ionescu), University of Belgrade (Petar Papic), Babes-Bolyai University (Cristian Pop), Geological Survey of Serbia (Goran Marinkovic), INGV Palermo (Walter D'Alessandro) and University of Palermo (Lorenza Li Vigni and Paolo Randazzo) travelled to Central Serbia in order to investigate this uncharted region. It is the first time that researchers are investigating the origin of these fluids in this area of the Balkans. Additionally the team visited the large karst springs of Western Serbia and the hyperalkaline springs of the Zlatibor Mountans. Based on the data the team tries to constrain the origin, amount of carbon released in the atmosphere, the origin of carbon and the associated gases (noble gases), and to create the first fluid geochemical model for Central Serbia
+
+<iframe src="https://drive.google.com/file/d/1T-h7cIVZkcZapbqBTgIJijGZnt6AEaE5/preview" width="640" height="480" allow="autoplay"></iframe>
