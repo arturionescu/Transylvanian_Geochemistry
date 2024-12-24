@@ -22,3 +22,5 @@ The Institute of Earth Physics and Space Science (EPSS) TOPO-Transylvania team j
 ![Alt text](/assets/img/uploads/trans3.jpg "field measurements")
 
 ![Alt text](/assets/img/uploads/trans4.jpg "the group")
+
+![Alt text](/assets/img/logos/topo-trans.png "logo")
