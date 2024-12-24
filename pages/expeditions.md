@@ -25,4 +25,16 @@ In the Cerna Valley basin, located southwest of the Southern Carpathians, an aqu
 
 A small group journeyed to the thermal karst system of Baile Herculane (Romania). Our aim was to investigate this amazing geochemical system from a complex point of view: from the gases, to the water, to the minerals and up to the microbes. The team was made up from: the University of Perugia (Artur Ionescu), Babes-Bolyai University (Calin Baciu, Cristain Pop and Alin-Marius Nicula), INGV Palermo / University of Palermo (Daskalopoulou Kyriaki), ATOMKI Debrecen (Marjan Temovski and Kata Molnar) and by the Institute of Speleology Emil Racovita (Traian Brad and Aurel Persoiu).
 
-<iframe src="https://drive.google.com/file/d/1UVe6q9immvJ9FcC5ESXKLN2F69f92VIV/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1UVe6q9immvJ9FcC5ESXKLN2F69f92VIV/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Thermal Karst of Herculane - March 2019 (RO)
+
+The project entitled "Improving the estimation of tectonic carbon flux" funded by the Deep Carbon Observatory had its first field work in the Balkans, more exactly in Slovenia. With the help of the Geological Survey of Slovenia (Geoloski zavod Slovenije) the joint team visited a total of 50 sites all over the country, spanning from thermal drilling's, to mineral water wells to karst springs. Samples were collected for a multitude of parameters in order to investigate almost the full fluid geochemistry of the area. 
+
+My biggest gratitude is for the Geological Survey of Slovenia for helping in the site selections, logistics and field support  during these days. The team included: University of Perugia (Artur Ionescu and Carlo Cardellini), Babes-Bolyai University (Cristian Pop) and teh Geological survey of Slovenia (Nina Rman, Miroslav Medic, Katja Koren, Luka Seriaz, Zmago Bole, Tomislav Matoz and Sonja Cerar).
+
+<iframe src="https://drive.google.com/file/d/1Y9FfP6ihLKA0d23p57-ia87Mj5I4kwIG/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/18IFBnaBPs8wTiYQV9WxzRKAj3ryCpBZ8/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1PRjYsZbHtFNPfNDbJr41YKZwAkSyYs8K/preview" width="640" height="480" allow="autoplay"></iframe>
