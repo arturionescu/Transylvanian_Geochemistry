@@ -25,4 +25,4 @@ In the Cerna Valley basin, located southwest of the Southern Carpathians, an aqu
 
 A small group journeyed to the thermal karst system of Baile Herculane (Romania). Our aim was to investigate this amazing geochemical system from a complex point of view: from the gases, to the water, to the minerals and up to the microbes. The team was made up from: the University of Perugia (Artur Ionescu), Babes-Bolyai University (Calin Baciu, Cristain Pop and Alin-Marius Nicula), INGV Palermo / University of Palermo (Daskalopoulou Kyriaki), ATOMKI Debrecen (Marjan Temovski and Kata Molnar) and by the Institute of Speleology Emil Racovita (Traian Brad and Aurel Persoiu).
 
-<iframe src="https://drive.google.com/file/d/1UVe6q9immvJ9FcC5ESXKLN2F69f92VIV/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1UVe6q9immvJ9FcC5ESXKLN2F69f92VIV/preview" width="640" height="360" allow="autoplay"></iframe>
