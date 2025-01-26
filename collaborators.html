@@ -15,12 +15,12 @@ permalink: /collaborators/
 
           {% for author in site.authors.external %}
               <h2 class="name">
-                <img class="img-rounded" src="{{ author.photo }}" width="300">
-                <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
-                <p class="position">{{ author.position }}</p>
+                <img class="img-rounded" src="{{ external.photo }}" width="300">
+                <a href="{{ site.baseurl }}{{ external.url }}">{{ external.display_name }}</a>
+                <p class="position">{{ external.affiliation }}</p>
               </h2>
 
-        <p>{{ author.bio }}</p>
+        <p>{{ external.bio }}</p>
 
         </p>
           {% endfor %}
