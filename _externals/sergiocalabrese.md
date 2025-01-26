@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: external
 photo: /assets/img/colab/sergio.jpg 
 name: sergiocalabresse
 display_name: Sergio Calabrese
