@@ -16,6 +16,8 @@ menu:
     url: /project
   - title: Team
     url: /staff
+  - title: Collaborators
+    url: /collaborators 
   - title: Field Work and Expeditions
     url: /expeditions
   - title: Media

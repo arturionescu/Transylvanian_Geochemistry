@@ -1,0 +1,50 @@
+---
+layout: page
+title: Collaborators
+description: Meet the people with whom we work with.
+permalink: /collaborators/
+---
+
+
+<h1>Meet the people with whom we work with.</h1>
+
+<div class="collaborators">
+    <div class="item">
+      <section class="collaborators>
+        <div class="details">
+
+          {% for author in site.authors.collaborators %}
+              <h2 class="name">
+                <img class="img-rounded" src="{{ author.photo }}" width="300">
+                <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
+                <p class="position">{{ author.position }}</p>
+              </h2>
+
+        <p>{{ author.bio }}</p>
+
+        </p>
+          {% endfor %}
+      </div>
+    </section>
+  </div>
+</div>
+
+{% assign author_urls = '' %}
+{% if author.github_username %}
+    {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
+{% endif %}
+{% if author.facebook_username %}
+    {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
+{% endif %}
+{% if author.twitter_username %}
+    {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
+{% endif %}
+{% if author.medium_username %}
+    {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
+{% endif %}
+{% if author.instagram_username %}
+    {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
+{% endif %}
+{% if author.linkedin_username %}
+    {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+{% endif %}
