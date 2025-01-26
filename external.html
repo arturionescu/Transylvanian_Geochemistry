@@ -2,18 +2,18 @@
 layout: page
 title: Collaborators
 description: Meet the people with whom we work.
-permalink: /collaborators/
+permalink: /external/
 ---
 
 
 <h1>Meet our extended team</h1>
 
-<div class="collaborators">
+<div class="external">
   <div class="item">
-    <section class="collaborators>
+    <section class="external>
       <div class="details">
 
-        {% for author in site.externals %}
+        {% for author in site.external %}
             <h2 class="name">
               <img class="img-rounded" src="{{ author.photo }}" width="300">
               <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
