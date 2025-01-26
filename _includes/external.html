@@ -13,33 +13,33 @@
       </h3>
       <p class="desc">{{ external.bio }}</p>
       <p>
-        {% if author.github_username %}
-          <a href="https://github.com/{{ author.github_username }}" title="Github">
+        {% if external.github_username %}
+          <a href="https://github.com/{{ external.github_username }}" title="Github">
             <svg><use xlink:href="#icon-github"></use></svg>
           </a>
         {% endif %}
-        {% if author.facebook_username %}
-          <a href="https://www.facebook.com/{{ author.facebook_username }}" title="Facebook">
+        {% if external.facebook_username %}
+          <a href="https://www.facebook.com/{{ external.facebook_username }}" title="Facebook">
             <svg><use xlink:href="#icon-facebook"></use></svg>
           </a>
         {% endif %}
-        {% if author.twitter_username %}
-          <a href="https://twitter.com/{{ author.twitter_username }}" title="Twitter">
+        {% if external.twitter_username %}
+          <a href="https://twitter.com/{{ external.twitter_username }}" title="Twitter">
             <svg><use xlink:href="#icon-twitter"></use></svg>
           </a>
         {% endif %}
-        {% if author.medium_username %}
-          <a href="https://medium.com/@{{ author.medium_username }}" title="Medium">
+        {% if external.medium_username %}
+          <a href="https://medium.com/@{{ external.medium_username }}" title="Medium">
             <svg><use xlink:href="#icon-medium"></use></svg>
           </a>
         {% endif %}
-        {% if author.instagram_username %}
-          <a href="https://www.instagram.com/{{ author.instagram_username }}" title="Instagram">
+        {% if external.instagram_username %}
+          <a href="https://www.instagram.com/{{ external.instagram_username }}" title="Instagram">
             <svg><use xlink:href="#icon-instagram"></use></svg>
           </a>
         {% endif %}
-        {% if author.linkedin_username %}
-          <a href="https://www.linkedin.com/in/{{ author.linkedin_username }}" title="LinkedIn">
+        {% if external.linkedin_username %}
+          <a href="https://www.linkedin.com/in/{{ external.linkedin_username }}" title="LinkedIn">
             <svg><use xlink:href="#icon-linkedin"></use></svg>
           </a>
         {% endif %}
@@ -47,40 +47,40 @@
     </div>
   </section>
 
-  {% assign author_urls = '' %}
-  {% if author.github_username %}
-      {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
+  {% assign external_urls = '' %}
+  {% if external.github_username %}
+      {% assign external_urls = external_urls | append: '"https://github.com/' | append: external.github_username | append: '",' %}
   {% endif %}
-  {% if author.facebook_username %}
-      {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
+  {% if external.facebook_username %}
+      {% assign external_urls = external_urls | append: '"https://www.facebook.com/' | append: external.facebook_username | append: '",' %}
   {% endif %}
-  {% if author.twitter_username %}
-      {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
+  {% if external.twitter_username %}
+      {% assign external_urls = external_urls | append: '"https://twitter.com/' | append: external.twitter_username | append: '",' %}
   {% endif %}
-  {% if author.medium_username %}
-      {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
+  {% if external.medium_username %}
+      {% assign external_urls = external_urls | append: '"https://medium.com/@' | append: external.medium_username | append: '",' %}
   {% endif %}
-  {% if author.instagram_username %}
-      {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
+  {% if external.instagram_username %}
+      {% assign external_urls = external_urls | append: '"https://www.instagram.com/' | append: external.instagram_username | append: '",' %}
   {% endif %}
-  {% if author.linkedin_username %}
-      {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+  {% if external.linkedin_username %}
+      {% assign external_urls = external_urls | append: '"https://www.linkedin.com/in/' | append: external.linkedin_username | append: '",' %}
   {% endif %}
 
   <script type="application/ld+json">
   {
       "@context": "http://schema.org",
       "@type": "Person",
-      "name": "{{ author.display_name }}",
-      {% if author.photo %}
-      "image": "{{ author.photo }}",
+      "name": "{{ external.display_name }}",
+      {% if external.photo %}
+      "image": "{{ external.photo }}",
       {% else %}
       "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
       {% endif %}
-      "jobTitle": "{{ author.position }}",
-      "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}",
+      "jobTitle": "{{ external.position }}",
+      "url": "{{ external.url | prepend: site.baseurl | prepend: site.url }}",
       "sameAs": [
-        {{ author_urls | split: "," | join: "," }}
+        {{ external_urls | split: "," | join: "," }}
       ]
   }
   </script>
