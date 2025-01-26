@@ -29,22 +29,22 @@ permalink: /collaborators/
   </div>
 </div>
 
-{% assign author_urls = '' %}
-{% if author.github_username %}
-    {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
+{% assign external_urls = '' %}
+{% if external.github_username %}
+    {% assign external_urls = external_urls | append: '"https://github.com/' | append: external.github_username | append: '",' %}
 {% endif %}
-{% if author.facebook_username %}
-    {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
+{% if external.facebook_username %}
+    {% assign external_urls = external_urls | append: '"https://www.facebook.com/' | append: external.facebook_username | append: '",' %}
 {% endif %}
-{% if author.twitter_username %}
-    {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
+{% if external.twitter_username %}
+    {% assign external_urls = external_urls | append: '"https://twitter.com/' | append: external.twitter_username | append: '",' %}
 {% endif %}
-{% if author.medium_username %}
-    {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
+{% if external.medium_username %}
+    {% assign external_urls = external_urls | append: '"https://medium.com/@' | append: external.medium_username | append: '",' %}
 {% endif %}
-{% if author.instagram_username %}
-    {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
+{% if external.instagram_username %}
+    {% assign external_urls = external_urls | append: '"https://www.instagram.com/' | append: external.instagram_username | append: '",' %}
 {% endif %}
-{% if author.linkedin_username %}
-    {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+{% if external.linkedin_username %}
+    {% assign external_urls = external_urls | append: '"https://www.linkedin.com/in/' | append: external.linkedin_username | append: '",' %}
 {% endif %}
