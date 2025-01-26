@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/colab/artur.jpg 
+photo: /assets/img/colab/sergio.jpg 
 name: sergiocalabresse
 display_name: Sergio Calabrese
 affiliation and position:Professor of Geochemistry and Volcanology at the University of Palermo  
