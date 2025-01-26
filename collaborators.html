@@ -16,11 +16,11 @@ permalink: /collaborators/
           {% for author in site.externals %}
               <h2 class="name">
                 <img class="img-rounded" src="{{ author.photo }}" width="300">
-                <a href="{{ site.baseurl }}{{ author.url }}">{{ external.display_name }}</a>
-                <p class="position">{{ external.affiliation }}</p>
+                <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
+                <p class="position">{{ author.affiliation }}</p>
               </h2>
 
-        <p>{{ external.bio }}</p>
+        <p>{{ author.bio }}</p>
 
         </p>
           {% endfor %}
