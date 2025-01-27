@@ -12,7 +12,9 @@ description: A little more about the science produced in the framework of the gr
 
 ## Articles
 
-25. Ricardo Sanchez-Murillo R., Ortega L., Vreca P., Zagar K., Shrestha S., Kgotlaebonywe C., Esquivel-Hernandez G., Birkel C., Mosquera G.M., Crespo P., Zhina D.X., Persoiu A., Feher R., Ionescu A., Shakya B.M., Mallas R., Bissassa M., Bellarbi M., Qurtobi M., Sanyal P., Ajay A., Kebede S., Bowen G.J., Heliel J.F., Pinti D., Barbecot F., Shrestha S., Marchesi M., Van Ropyen J., Miller J. (2024). Tracing Urban Drinking Water Sources: Global State of the Art and Insights From an IAEA-Coordinated Research Project. Hydrological precesses 38(10), e15312.
+26. Sobolewski L., Stenner C., Florea L.J., McWethy G., Gomez-Patron A.I., Zorn E.U., Ionescu A., Cartaya E., Pflitsch A. (2025). Long-term development of lava dome morphology and thermal energy release in the crater of Mount St. Helens, Washington (USA). Journal of Volcanology and Geothermal Research, 108274.
+
+25. Ricardo Sanchez-Murillo R., Ortega L., Vreca P., Zagar K., Shrestha S., Kgotlaebonywe C., Esquivel-Hernandez G., Birkel C., Mosquera G.M., Crespo P., Zhina D.X., Persoiu A., Feher R., Ionescu A., Shakya B.M., Mallas R., Bissassa M., Bellarbi M., Qurtobi M., Sanyal P., Ajay A., Kebede S., Bowen G.J., Heliel J.F., Pinti D., Barbecot F., Shrestha S., Marchesi M., Van Ropyen J., Miller J. (2024). Tracing Urban Drinking Water Sources: Global State of the Art and Insights From an IAEA-Coordinated Research Project. Hydrological Processes 38(10), e15312.
 
 24. Lamberti M.C., Sierra D., Cardellini C., Viveiros F., Vasconez Muller F., Vasconez F.J., Narvaez D.F., Silva C., Melian G., Caliro S., Kis B.M., Ionescu A., Hidalgo S. (2024). Results of the CO2 diffuse degassing survey from the 2017 IAVCEI CCVG 13th volcanic gas workshop: Pululahua dome complex, Ecuador. Journal of Volcanology and Geothermal Research, 453, 108145.
 
