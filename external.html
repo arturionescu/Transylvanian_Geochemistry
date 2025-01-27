@@ -9,21 +9,21 @@ permalink: /external/
 <h1>Meet our extended team</h1>
 
 <div class="external">
-  <div class="item">
-    <section class="external>
-      <div class="details">
+    <div class="item">
+      <section class="external>
+        <div class="details">
 
-        {% for author in site.authors2 %}
-            <h2 class="name">
-              <img class="img-rounded" src="{{ author.photo }}" width="300">
-              <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
-              <p class="position">{{ author.position }}</p>
+          {% for author in site.authors %}
+              <h2 class="name">
+               <img class="img-rounded" src="{{ author.photo }}" width="300">
+               <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
+               <p class="position">{{ author.position }}</p>
             </h2>
 
-      <p>{{ author.bio }}</p>
+        <p>{{ author.bio }}</p>
 
-      </p>
-        {% endfor %}
+        </p>
+         {% endfor %}
       </div>
     </section>
   </div>
