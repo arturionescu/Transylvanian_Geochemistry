@@ -16,7 +16,9 @@ Here some highligts of our media appearances and some of our outreach events of 
 
 - Interview about the 1st Etna International Training School of Geochemistry at "Nyitott Szemmel" entitled "[Etnalogia](https://drive.google.com/file/d/1-e0phcXL16HMzeXATKnb6RdAKbobAm-E/view?usp=sharing)" conversation evening with Laczko Vass Robert - 2016.10.27
 
-- Appered in the Slovenian Geologic Surveys ("[Geoloski zavod Slovenije](https://www.geo-zs.si/index.php/47-slovenian/novice/533-vzor%C4%8Denje-naravnih-izvirov-plina-co2-in-mineralne-vode-4-6-2019)") websites news section (in Slovenian), 04.06.2019 
+- Field report on the expedition "Discovering the Carpathian Volcanism ("[Investigating the Origins of Carbon degassing in Romania](https://drive.google.com/file/d/166678PsyW17zGcLm9SZFv2lUI4pOSWeU/view?usp=sharing)") on te Deep Carbon Observatory website news section, 22.10.2018
+
+- Appered in the Slovenian Geologic Surveys ("[Geoloski zavod Slovenije](https://www.geo-zs.si/index.php/47-slovenian/novice/533-vzor%C4%8Denje-naravnih-izvirov-plina-co2-in-mineralne-vode-4-6-2019)"), websites news section (in Slovenian), 04.06.2019
 
 - A notice on our sampling in the Triglav National Park which is published in the official journal of the Park, "[Acta Triglavensia](https://drive.google.com/file/d/1DR7xE6DUKX9HkR7YWx0KwSO7_TKG0BLJ/view?usp=sharing)" (in Slovenian), December 2019.
 
