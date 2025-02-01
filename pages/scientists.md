@@ -86,3 +86,6 @@ description: A little more about the science produced in the framework of the gr
 
 1. BSc thesis “Gas seepage investigations around Korund locality (CO2 and CH4)” by Levente Ravasz (in Hungarian), Babes-Bolyai University, Faculty of Geography, 2017.
 
+## Interships
+
+1. "Present and past deep carbon emissions in the Carpathian mofettic area" by Alessandra Ariano, University of Perugia, Department of Physics and Geology, from the Doctoral School of Earth System and Global Changes
