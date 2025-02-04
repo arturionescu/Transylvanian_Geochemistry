@@ -23,10 +23,10 @@ It is well known that the Romanian Carpathian range is the biggest geogenic carb
 
 ![Alt text](/assets/img/uploads/ec4.jpg "sampling with Giggenbach-bottle")
 
-![Alt text](/assets/img/uploads/ec5 "sulphur-rich spring")
+![Alt text](/assets/img/uploads/ec5.jpg "sulphur-rich spring")
 
-![Alt text](/assets/img/uploads/ec6 "iron-oxide rich minera water")
+![Alt text](/assets/img/uploads/ec6.jpg "iron-oxide rich minera water")
 
-![Alt text](/assets/img/uploads/ec7 "sampling with a bit of sunshine")
+![Alt text](/assets/img/uploads/ec7.jpg "sampling with a bit of sunshine")
 
-![Alt text](/assets/img/uploads/ec8 "filling up a two-way sampler")
+![Alt text](/assets/img/uploads/ec8.jpg "filling up a two-way sampler")
