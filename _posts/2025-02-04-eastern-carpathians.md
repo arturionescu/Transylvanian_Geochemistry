@@ -6,7 +6,7 @@ subtitle: Mineral and gas-rich springs of the Eastern Carpathians
 description: 
 image: /assets/img/uploads/ec1.jpg
 optimized_image:
-category: news
+category: work
 tags:
   - Carpathians
   - mineral water
