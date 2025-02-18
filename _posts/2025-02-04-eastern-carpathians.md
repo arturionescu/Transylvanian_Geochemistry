@@ -1,5 +1,5 @@
 ---
-date: 2024-12-12
+date: 2025-02-04
 layout: post
 title: Eastern Carpathian CO2-springs
 subtitle: Mineral and gas-rich springs of the Eastern Carpathians

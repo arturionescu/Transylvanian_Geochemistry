@@ -1,5 +1,5 @@
 ---
-date: 2024-12-12
+date: 2025-02-18
 layout: post
 title: Where Science Meets Collaboration
 subtitle: A Memorable Experience at TOPO-Europe
