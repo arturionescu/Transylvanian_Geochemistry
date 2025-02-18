@@ -1,7 +1,7 @@
 ---
 date: 2024-12-12
 layout: post
-title: Where Science Meets Collaboration A Memorable Experience at TOPO-Europe
+title: Where Science Meets Collaboration
 subtitle: A Memorable Experience at TOPO-Europe
 description: 
 image: /assets/img/uploads/topo7.jpg
