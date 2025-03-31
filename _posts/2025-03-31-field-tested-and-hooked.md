@@ -1,7 +1,7 @@
 ---
 date: 2025-02-18
 layout: post
-title: Beyond the Lab: Discovering the Adventure of Field Research
+title: Beyond the Lab, Discovering the Adventure of Field Research
 subtitle: Field-tested and hooked
 description: 
 image: /assets/img/uploads/iulia1.jpg
