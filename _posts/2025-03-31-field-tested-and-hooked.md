@@ -4,7 +4,7 @@ layout: post
 title: Beyond the Lab, Discovering the Adventure of Field Research
 subtitle: Field-tested and hooked
 description: 
-image: /assets/img/uploads/iulia1.jpg
+image: /assets/img/uploads/iulia0.jpg
 optimized_image:
 category: work
 tags:
