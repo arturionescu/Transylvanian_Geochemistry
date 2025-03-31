@@ -4,7 +4,7 @@ layout: post
 title: Beyond the Lab, Discovering the Adventure of Field Research
 subtitle: Field-tested and hooked
 description: 
-image: /assets/img/uploads/iulia0.jpg
+image: /assets/img/uploads/iulia4.jpg
 optimized_image:
 category: work
 tags:
@@ -30,5 +30,3 @@ A situation we ran into was how to get an accumulation chamber, for sampling, on
 Such moments are the ones where brainstorming came in handy and if it didn’t work on-site, we took our time assessing the situation and discussing ways of solving the problem.
 
 I would not trade this experience for anything, it taught me how real fieldwork looks like, to think quick, helped me to form bonds, expanded my knowledge and many more skills which I’ll get to improve with every project! 
-
-![Alt text](/assets/img/uploads/iulia4.jpg "working")
