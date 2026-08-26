@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /assets/img/teampic/humi.jpg 
-name: andreihuminic
-display_name: Andrei Huminic
-position: BSc in Environmental Engineering, MSc student in Sustainable Development and Environmental Management 
-bio: The engineer. Working on developing DIY spectrometers for field applications for measuring water chemistry.
+photo: /assets/img/teampic/jaki.jpg 
+name: jakab
+display_name: Attila-Sandor Jakab
+position: BSc student in Environmental Science with a BSc Food Products Engineering 
+bio: The tracer element detective, curious about different trace elements in mineral waters and how they affect the human health.
 ---

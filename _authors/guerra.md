@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /assets/img/teampic/kata.jpg 
-name: katagergely
-display_name: Kata Gergely
-position: BSc student in Environmental Science
-bio: The groups diver, interested in combining marine science with fluid geochemistry in volcaninc environments. 
+photo: /assets/img/teampic/francesco.jpg 
+name: guerra
+display_name: Francesco Guerra
+position: BSc in Photography, Cinema and Television 
+bio: Professional photographer and filmmaker, from volcanoes to underwater, there's no place he won't go with his camera. 
 ---

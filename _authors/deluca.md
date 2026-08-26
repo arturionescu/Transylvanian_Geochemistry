@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /assets/img/teampic/miriam.jpg 
-name: miriamdragomir
-display_name: Miriam Dragomir
-position: BSc in Environmental Science
-bio: The GIS sorceress of the group, helping us to develop user friendly applications for geochemist.
+photo: /assets/img/teampic/claudia.jpg 
+name: deluca
+display_name: Claudia De Luca
+position: MSc in Advanced Chemical Engineering and BSc in Chemical Engineering
+bio: The geeky science communicator, here to make you curious about science and share the stories behind the work.
 ---
