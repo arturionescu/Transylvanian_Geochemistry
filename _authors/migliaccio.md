@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /assets/img/teampic/andrei.jpg 
-name: andreimoldoveanu
-display_name: Andrei Moldoveanu
-position: BSc student in Film and Television Image Production 
-bio: Videographer/photographer of the gang, also science communicator, along for the ride with the team to tell the story behind the activities.  
+photo: /assets/img/teampic/flavia.jpg 
+name: migliaccio
+display_name: Flavia Migliaccio
+position: Postdoc at the Giovannelli Lab, PhD in Environmental Microbiology, MSc in Molecular Biology and BSc in Biological Sciences
+bio: Our microbiologist focusing on microbial communities structure, functions and interactions in hydrothermal emissions.   
 ---
