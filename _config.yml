@@ -1,14 +1,17 @@
 # Site Settings
 name: Transylvanian Geochemistry Research Group
 title: Transylvanian Geochem RG
-description: The website of the Transylvanian Geochemsitry Research Group, working on the origin and interaction of fluids in different geotectonic settings. 
+description: "The website of the Transylvanian Geochemistry Research Group, working on the origin and interaction of fluids in different geotectonic settings."
+
 tags:
   - science
   - fluid geochemistry
   - research group
   - Transylvania
   - carbon cycle
+
 show_hero: true
+
 menu:
   - title: Home
     url: /
@@ -17,7 +20,7 @@ menu:
   - title: Team
     url: /staff
   - title: Collaborators
-    url: /external 
+    url: /external
   - title: Field Work and Expeditions
     url: /expeditions
   - title: Media
@@ -26,17 +29,12 @@ menu:
     url: /scientists
   - title: Contact
     url: /contact
-  
+
 email: youremail@test.com
-# See: https://disqus.com/
 disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
 formspree_form_id: formspree_form_id
 
-
-# Social Media Settings
-# Remove the item if you don't need it
+# Social Media
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
@@ -44,79 +42,62 @@ instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
 
-
-# Posts Settings
+# Posts
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 
-
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.transylvaniangeochemistry.org" 
+baseurl: ""
+url: "https://www.transylvaniangeochemistry.org"
 google_analytics: "G-WLWEDBWSZZ"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
-
-# Build settings
+# Build Settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+
 collections:
   authors:
     output: true
   collaborators:
     output: true
+
+# Homepage pagination
+paginate: 10
 paginate_path: "/page/:num/"
+
 show_get_theme_btn: true
 use_logo: false
-
-# Content paginator
-paginate_content:
-  enabled: true
-  debug: false
-  collections:
-    - posts
-  auto: false
-  separator: "--page-break--"
-  permalink: "/:num/"
-  seo_canonical: true
-  properties:
-    part:
-      is_generated: true
-    last:
-      is_generated: true
-    single:
-      is_generated: true
 
 # SASS
 sass:
   style: compressed
 
-# Plugins
+# Plugins supported by GitHub Pages
 plugins:
   - jekyll-paginate
 
-# Exclude my node related stuff
-exclude: [
-  'docs/',
-  'vendor/',
-  'LICENSE',
-  'CHANGELOG.md',
-  'jekflix.gemspec',
-  'package.json',
-  'package-lock.json',
-  'src',
-  'node_modules',
-  'initpost.sh',
-  'Gemfile',
-  'Gemfile.lock',
-  'gulpfile.js',
-  'README.md'
-]
+# Excluded files
+exclude:
+  - docs/
+  - vendor/
+  - LICENSE
+  - CHANGELOG.md
+  - jekflix.gemspec
+  - package.json
+  - package-lock.json
+  - src
+  - node_modules
+  - initpost.sh
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - README.md
 
 # Theme
 version: v1.0
