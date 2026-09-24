@@ -6,7 +6,7 @@ subtitle: Chasing Carbon in Covasna
 description: 
 image: /assets/img/uploads/covasna_cover.jpg
 optimized_image:
-category: workin depth
+category: in depth
 tags:
   - fieldwork
   - carbon flux
