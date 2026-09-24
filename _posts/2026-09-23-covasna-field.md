@@ -15,7 +15,7 @@ paginate: false
 ---
 Before this field trip, I had never really considered doing research myself or thinking of myself as a kind of “mini scientist.” That started to change after I saw a post online saying that scientists often seem mysterious from the outside, but once you actually speak with one, you realise that they want to tell you everything they know about their field.
 
-At first, I thought it was just a funny observation. But after spending time in the field with researchers, I realised how true it was. The more questions I asked, the more explanations I received. A simple question about a gas measurement could easily turn into a discussion about volcanoes, tectonics, carbon isotopes or how gases move through the Earth. Science suddenly felt much less distant and much more real.
+At first, I thought it was just a funny observation, however after spending time in the field with researchers, I realised how true it was. The more questions I asked, the more explanations I received. A simple question about a gas measurement could easily turn into a discussion about volcanoes, tectonics, carbon isotopes or how gases move through the Earth. Science suddenly felt much less distant and much more real.
 
 During the Covasna field campaign, I had the opportunity to work with the team and with our collaborator, Dr. Giancarlo Tamburello from INGV Bologna. Together, we investigated natural carbon dioxide emissions in Covasna, one of the most interesting areas of the Eastern Carpathians for studying geogenic gases.
 
