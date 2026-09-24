@@ -1,7 +1,7 @@
 ---
 date: 2026-09-23
 layout: post
-title: Chasing Carbon in Covasna: My First Steps into Research
+title: "Chasing Carbon in Covasna: My First Steps into Research"
 subtitle: Chasing Carbon in Covasna
 description: 
 image: /assets/img/uploads/covasna_cover.jpg
