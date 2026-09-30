@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/teampic/raluca.jpg 
+photo: /assets/img/teampic/ralu.jpg 
 name: ralucaciur
 display_name: Raluca Andreea Ciur
 position: BSc student in Environmental Engineering
