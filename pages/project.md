@@ -11,7 +11,7 @@ description: About
 
 We are a team of geochemists, geologists, microbiologists, engineers, environmental scientists, explorers and storytellers, brought together by one shared curiosity:
 
-# What is really happening below the surface?
+**What is really happening below the surface?**
 
 To find out, we follow the signals that make their way upward. We chase gases, sample mineral- and thermal waters, study rocks and minerals, follow faults, investigate extreme microorganisms, build instruments, fly drones, run experiments and turn complex datasets into models.
 
@@ -23,6 +23,6 @@ What connects us is field-based science, curiosity and the belief that the most 
 
 From the Eastern Carpathians to volcanic islands and other tectonically active regions, we try to understand how fluids move through the Earth, how they interact with rocks and life, and what those interactions can tell us about the deeper geosphere.
 
-# Different backgrounds. Different tools. Same curiosity. Let’s see what the Earth is trying to tell us.
+**Different backgrounds. Different tools. Same curiosity. Let’s see what the Earth is trying to tell us.**
 
 <img src="/assets/img/uploads/galapagos.jpg" alt="A fumarolic field in Galapagos" width="100%">
