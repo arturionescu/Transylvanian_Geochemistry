@@ -4,5 +4,5 @@ photo: /assets/img/teampic/ionut.jpg
 name: ioanchis
 display_name: Ioan Chis
 position: BSc in Environmental Management and Audit
-bio: The tech-guy, keen to learn how to build low-cost multi-gas instruments for drones, to study air quality affected by natural contaminants.
+bio: The tech builder, developing low-cost multi-gas instruments to track natural gases and their impact on air quality.
 ---

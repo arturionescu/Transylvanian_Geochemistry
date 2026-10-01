@@ -4,5 +4,5 @@ photo: /assets/img/teampic/andrei.jpg
 name: andreimoldoveanu
 display_name: Andrei Moldoveanu
 position: BSc student in Film and Television Image Production 
-bio: Videographer/photographer of the gang, along for the ride with the team to tell the story behind the activities.  
+bio: The team storyteller, capturing field science through photography and film and showing what research actually looks like behind the scenes.
 ---

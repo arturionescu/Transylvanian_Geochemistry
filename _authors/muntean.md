@@ -4,5 +4,5 @@ photo: /assets/img/teampic/dracos.jpg
 name: dragosmuntean
 display_name: Ionut-Dragos Muntean
 position: 
-bio: Adventurer and off-roader, with vast knowledge and experince, the teams logistic, safety and rescue person.  
+bio: The expedition backbone, keeping the team moving, prepared and safe wherever the field takes us.
 ---
