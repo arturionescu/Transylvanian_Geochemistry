@@ -2,18 +2,27 @@
 layout: page
 menu: false
 date: '2020-02-27 01:53:59'
-title: The CoEvolve project
+title: About Us and Who We Are
 permalink: /project/
-description: The project CoEvolve
+description: About
 ---
 
-# The goals of the group
+# About Us and Who We Are
 
-Carbon or CO2 Earth degassing is contributed by the combined action of two distinct source processes: a “point” source contribution from active volcanoes trough plumes and volcanic-hydrothermal areas (volcanic carbon flux), and a more regionally diffuse contribution from tectonically active areas and geothermal areas not related to active volcanism (non-volcanic CO2 flux or tectonic flux). The magnitude of both contributions is however still poorly constrained. These estimates are still affected by large uncertainties due to the limited amount of measured volcanic fluxes and the investigation of tectonic degassing. The reserach group, will try to elucidate and quantify tectonic carbon degassing, involved in the global carbon flux, through direct measurements, in opposite the current estimations. The group will: 1) detect geogenic carbon emissions in different geotectonic settings; 2) fingerprint the origin of the fluids, and determine the contribution between mantle and crustal processes; 3) quantify the amount of tectonic carbon released to the atmosphere in relationship with geological features and geodynamics models and 4) create a tectonic degassing model that can be extrapolated to other regions and also to deep time. These data would represent a ground-breaking contribution to the attempt to model better the carbon cycle, and to investigate the past and the present climate change.
+We are a team of geochemists, geologists, microbiologists, engineers, environmental scientists, explorers and storytellers, brought together by one shared curiosity:
+
+# What is really happening below the surface?
+
+To find out, we follow the signals that make their way upward. We chase gases, sample mineral- and thermal waters, study rocks and minerals, follow faults, investigate extreme microorganisms, build instruments, fly drones, run experiments and turn complex datasets into models.
+
+Some of us hunt CO₂, H₂ and CH₄. Others track radon, groundwater, mineral reactions or microbial life. Some build sensors and reactors, some reconstruct hidden fluid pathways, and some make sure the rest of us actually make it back from the field.
+
+Our laboratory is wherever the Earth gives us a clue: mofettas, mineral springs, volcanic lakes, caves, fault zones, hydrothermal systems, ophiolites and other environments where deep processes leave a fingerprint at the surface.
+
+What connects us is field-based science, curiosity and the belief that the most interesting questions usually sit between disciplines. Gases interact with waters, waters react with rocks, faults guide fluids, microbes take advantage of chemical energy, and all of these processes become pieces of the same puzzle.
+
+From the Eastern Carpathians to volcanic islands and other tectonically active regions, we try to understand how fluids move through the Earth, how they interact with rocks and life, and what those interactions can tell us about the deeper geosphere.
+
+# Different backgrounds. Different tools. Same curiosity. Let’s see what the Earth is trying to tell us.
 
 <img src="/assets/img/uploads/galapagos.jpg" alt="A fumarolic field in Galapagos" width="100%">
-
-## Why it is important
-The aims of the group advances our understanding of how volcanic and tectonic degassing interact in the subsurface, and how fluid behave in these two different systems. Our fundamental research has a number of future applications, like for example to combine both geochemical- and geophysicals data in active tectonic areas during seismic monitoring.
-
-<img src="/assets/img/uploads/slovenia.jpg" alt="A karst springs in Slovenia" width="100%">
