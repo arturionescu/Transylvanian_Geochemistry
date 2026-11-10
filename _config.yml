@@ -54,7 +54,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.transylvaniangeochemistry.org" 
+url: "https://transylvaniangeochemistry.org"
 google_analytics: "G-WLWEDBWSZZ"
 language: "en"
 categories_folder: category
