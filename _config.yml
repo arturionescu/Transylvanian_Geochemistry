@@ -19,6 +19,8 @@ menu:
     url: /staff
   - title: Collaborators
     url: /external 
+  - title: Alumni
+    url: /alumni/
   - title: Field Work and Expeditions
     url: /expeditions
   - title: Media
@@ -70,6 +72,8 @@ collections:
   authors:
     output: true
   collaborators:
+    output: true
+  previousmemb:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true

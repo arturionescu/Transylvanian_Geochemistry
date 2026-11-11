@@ -1,0 +1,34 @@
+---
+layout: page
+title: Alumni
+description:Former members of our research group.
+permalink: /alumni/
+---
+
+
+<h1>Former members and alumni</h1>
+
+
+<div class="staff">
+  {% assign alumni = site.previousmemb | sort: "display_name" %}
+  {% for member in alumni %}
+    <section class="details">
+      {% if member.photo %}
+        <img class="img-rounded"
+             src="{{ member.photo | relative_url }}"
+             alt="{{ member.display_name | escape }}"
+             width="300"
+             loading="lazy">
+      {% endif %}
+
+      <h2 class="name">
+        <a href="{{ member.url | relative_url }}">
+          {{ member.display_name }}
+        </a>
+      </h2>
+
+      <p class="position">{{ member.position }}</p>
+      <p>{{ member.bio }}</p>
+    </section>
+  {% endfor %}
+</div>
