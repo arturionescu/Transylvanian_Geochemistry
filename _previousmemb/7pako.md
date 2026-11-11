@@ -4,5 +4,5 @@ photo: /assets/img/teampic/kinga.jpg
 name: kingapako
 display_name: Kinga Pakó
 position: BSc both in History and Environmental Science
-bio: Our historian, interested in history of science, especially on how Earth Sciences evolved in the region of Transylvania on geochemistry.  
+bio: The historian of the group, exploring the history of science and how Earth Sciences, especially geochemistry, developed across Transylvania.
 ---
