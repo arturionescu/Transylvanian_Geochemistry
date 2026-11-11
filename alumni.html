@@ -8,32 +8,45 @@ permalink: /alumni/
 
 <h1>Former members and alumni</h1>
 
-
 <div class="staff">
-  <div class="item">
-    <section class="staff">
-      <div class="details">
+    <div class="item">
+      <section class="staff">
+        <div class="details">
 
-        {% for author in site.previousmemb %}
-          <h2 class="name">
-            {% if author.photo %}
-              <img class="img-rounded"
-                   src="{{ author.photo }}"
-                   alt="{{ author.display_name | escape }}"
-                   width="300"
-                   loading="lazy">
-            {% endif %}
+          {% for author in site.previousmemb %}
+              <h2 class="name">
+                <img class="img-rounded" src="{{ author.photo }}" width="300">
+                <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
+                <p class="position">{{ author.position }}</p>
+              </h2>
 
-            <a href="{{ site.baseurl }}{{ author.url }}">
-              {{ author.display_name }}
-            </a>
-          </h2>
+        <p>{{ author.bio }}</p>
 
-          <p class="position">{{ author.position }}</p>
-          <p>{{ author.bio }}</p>
-        {% endfor %}
-
+          {% endfor %}
       </div>
     </section>
   </div>
 </div>
+
+{% assign author_urls = '' %}
+{% if author.github_username %}
+    {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
+{% endif %}
+{% if author.facebook_username %}
+    {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
+{% endif %}
+{% if author.twitter_username %}
+    {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
+{% endif %}
+{% if author.medium_username %}
+    {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
+{% endif %}
+{% if author.instagram_username %}
+    {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
+{% endif %}
+{% if author.linkedin_username %}
+    {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+{% endif %}
+
+
+
