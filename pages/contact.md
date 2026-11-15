@@ -15,7 +15,7 @@ Artur Ionescu - Fluid Geochemist
 
 Babes-Bolyai University
 Faculty of Environmental Science and Engineering
-Cluj-Napoca Romania
+Cluj-Napoca RO
 artur.ionescu@ubbcluj.ro
 
 <img src="/assets/img/logo.png" width="400">
