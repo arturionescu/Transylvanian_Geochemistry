@@ -3,7 +3,7 @@ layout: page
 menu: false
 date: '2020-02-27 01:53:59'
 title: The Science
-permalink: /scientists/
+permalink: /science/
 description: A little more about the science produced in the framework of the group activities
 ---
 
