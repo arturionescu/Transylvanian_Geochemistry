@@ -21,12 +21,12 @@ menu:
     url: /external 
   - title: Alumni
     url: /alumni/
-  - title: The Science
-    url: /science  
   - title: Protocols
     url: /protocols
   - title: Field Work and Expeditions
     url: /expeditions
+  - title: The Science
+    url: /science  
   - title: Media
     url: /media
   - title: Contact
